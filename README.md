@@ -1,6 +1,15 @@
 # Análisis de algoritmos
 
-### Estudio de la eficiencia de un algoritmo
+### Integrantes del grupo:
+    -Francisco Gutierrez
+    -Gaspar Inacio
+### Comisión: 15
+
+### Link youtube:
+
+### Link github: https://github.com/GasparInacio/integrador_programacion
+
+### El análisis de algoritmos es el estudio de la eficiencia de un algoritmo
 
 ### La eficiencia es la medida del coste de recursos que necesita el algoritmo para llevar a cabo su tarea
 
